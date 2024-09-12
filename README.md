@@ -1,2 +1,2 @@
 # LearningGit
-LearningGit
+We are learning and its fun
